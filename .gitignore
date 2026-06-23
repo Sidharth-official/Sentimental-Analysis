@@ -1,0 +1,12 @@
+*.csv
+
+.DS_Store
+
+.conda/
+.venv/
+env/
+__pycache__/
+
+*.pt
+*.pth
+
